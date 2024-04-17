@@ -1,4 +1,4 @@
 # UTEG202202-CC
 Repository for CC class students
 
-4/8/2023  new module
+7/3/2024  examen final Juan Jose Cardenas Osorio
